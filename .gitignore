@@ -1,0 +1,33 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Debug
+*.dSYM/
+*.pdb
+
+# PCAP test files
+*.pcap
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
